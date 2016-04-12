@@ -7,7 +7,8 @@ This will install the **mm_comp** project to your default install location for t
 To install, run:
 ```
 git clone https://github.com/phillipdwright/mm_comp.git
-python setup.py
+cd mm_comp
+python setup.py install
 ```
 
 To uninstall, run:
