@@ -1,0 +1,14 @@
+# Compiled python modules.
+*.pyc
+
+# Dropbox files
+*.dropbox
+
+# Setuptools distribution folder.
+/dist/
+
+# Python egg metadata, regenerated from source files by setuptools.
+/*.egg-info
+
+# Proprietary info
+/mm_comp/db_connector.py
