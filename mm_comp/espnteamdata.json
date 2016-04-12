@@ -1,0 +1,342 @@
+{
+    "275": {
+        "shortDisplayName": "Wisconsin",
+        "displayName": "Wisconsin Badgers",
+        "name": "Badgers"
+    },
+    "2132": {
+        "shortDisplayName": "Cincinnati",
+        "displayName": "Cincinnati Bearcats",
+        "name": "Bearcats"
+    },
+    "239": {
+        "shortDisplayName": "Baylor",
+        "displayName": "Baylor Bears",
+        "name": "Bears"
+    },
+    "2086": {
+        "shortDisplayName": "Butler",
+        "displayName": "Butler Bulldogs",
+        "name": "Bulldogs"
+    },
+    "2571": {
+        "shortDisplayName": "South Dakota St",
+        "displayName": "South Dakota State Jackrabbits",
+        "name": "Jackrabbits"
+    },
+    "2617": {
+        "shortDisplayName": "SF Austin",
+        "displayName": "Stephen F. Austin Lumberjacks",
+        "name": "Lumberjacks"
+    },
+    "38": {
+        "shortDisplayName": "Colorado",
+        "displayName": "Colorado Buffaloes",
+        "name": "Buffaloes"
+    },
+    "2603": {
+        "shortDisplayName": "Saint Joe&#39;s",
+        "displayName": "Saint Joseph&#39;s Hawks",
+        "name": "Hawks"
+    },
+    "2934": {
+        "shortDisplayName": "CSU Bakersfield",
+        "displayName": "CSU Bakersfield Roadrunners",
+        "name": "Roadrunners"
+    },
+    "25": {
+        "shortDisplayName": "Cal",
+        "displayName": "California Golden Bears",
+        "name": "Golden Bears"
+    },
+    "254": {
+        "shortDisplayName": "Utah",
+        "displayName": "Utah Utes",
+        "name": "Utes"
+    },
+    "66": {
+        "shortDisplayName": "Iowa State",
+        "displayName": "Iowa State Cyclones",
+        "name": "Cyclones"
+    },
+    "2483": {
+        "shortDisplayName": "Oregon",
+        "displayName": "Oregon Ducks",
+        "name": "Ducks"
+    },
+    "201": {
+        "shortDisplayName": "Oklahoma",
+        "displayName": "Oklahoma Sooners",
+        "name": "Sooners"
+    },
+    "350": {
+        "shortDisplayName": "UNC Wilmington",
+        "displayName": "UNC Wilmington Seahawks",
+        "name": "Seahawks"
+    },
+    "2724": {
+        "shortDisplayName": "Wichita State",
+        "displayName": "Wichita St Shockers",
+        "name": "Shockers"
+    },
+    "130": {
+        "shortDisplayName": "Michigan",
+        "displayName": "Michigan Wolverines",
+        "name": "Wolverines"
+    },
+    "2261": {
+        "shortDisplayName": "Hampton",
+        "displayName": "Hampton Pirates",
+        "name": "Pirates"
+    },
+    "84": {
+        "shortDisplayName": "Indiana",
+        "displayName": "Indiana Hoosiers",
+        "name": "Hoosiers"
+    },
+    "30": {
+        "shortDisplayName": "USC",
+        "displayName": "USC Trojans",
+        "name": "Trojans"
+    },
+    "2294": {
+        "shortDisplayName": "Iowa",
+        "displayName": "Iowa Hawkeyes",
+        "name": "Hawkeyes"
+    },
+    "183": {
+        "shortDisplayName": "Syracuse",
+        "displayName": "Syracuse Orange",
+        "name": "Orange"
+    },
+    "2641": {
+        "shortDisplayName": "Texas Tech",
+        "displayName": "Texas Tech Red Raiders",
+        "name": "Red Raiders"
+    },
+    "2460": {
+        "shortDisplayName": "Northern Iowa",
+        "displayName": "Northern Iowa Panthers",
+        "name": "Panthers"
+    },
+    "150": {
+        "shortDisplayName": "Duke",
+        "displayName": "Duke Blue Devils",
+        "name": "Blue Devils"
+    },
+    "2250": {
+        "shortDisplayName": "Gonzaga",
+        "displayName": "Gonzaga Bulldogs",
+        "name": "Bulldogs"
+    },
+    "2507": {
+        "shortDisplayName": "Providence",
+        "displayName": "Providence Friars",
+        "name": "Friars"
+    },
+    "2582": {
+        "shortDisplayName": "Southern",
+        "displayName": "Southern Jaguars",
+        "name": "Jaguars"
+    },
+    "2168": {
+        "shortDisplayName": "Dayton",
+        "displayName": "Dayton Flyers",
+        "name": "Flyers"
+    },
+    "218": {
+        "shortDisplayName": "Temple",
+        "displayName": "Temple Owls",
+        "name": "Owls"
+    },
+    "2670": {
+        "shortDisplayName": "VCU",
+        "displayName": "VCU Rams",
+        "name": "Rams"
+    },
+    "2619": {
+        "shortDisplayName": "Stony Brook",
+        "displayName": "Stony Brook Seawolves",
+        "name": "Seawolves"
+    },
+    "278": {
+        "shortDisplayName": "Fresno State",
+        "displayName": "Fresno State Bulldogs",
+        "name": "Bulldogs"
+    },
+    "2692": {
+        "shortDisplayName": "Weber State",
+        "displayName": "Weber State Wildcats",
+        "name": "Wildcats"
+    },
+    "2550": {
+        "shortDisplayName": "Seton Hall",
+        "displayName": "Seton Hall Pirates",
+        "name": "Pirates"
+    },
+    "2084": {
+        "shortDisplayName": "Buffalo",
+        "displayName": "Buffalo Bulls",
+        "name": "Bulls"
+    },
+    "2752": {
+        "shortDisplayName": "Xavier",
+        "displayName": "Xavier Musketeers",
+        "name": "Musketeers"
+    },
+    "2390": {
+        "shortDisplayName": "Miami",
+        "displayName": "Miami Hurricanes",
+        "name": "Hurricanes"
+    },
+    "2393": {
+        "shortDisplayName": "Mid Tennessee",
+        "displayName": "Middle Tennessee Blue Raiders",
+        "name": "Blue Raiders"
+    },
+    "41": {
+        "shortDisplayName": "UConn",
+        "displayName": "Connecticut Huskies",
+        "name": "Huskies"
+    },
+    "238": {
+        "shortDisplayName": "Vanderbilt",
+        "displayName": "Vanderbilt Commodores",
+        "name": "Commodores"
+    },
+    "12": {
+        "shortDisplayName": "Arizona",
+        "displayName": "Arizona Wildcats",
+        "name": "Wildcats"
+    },
+    "277": {
+        "shortDisplayName": "West Virginia",
+        "displayName": "West Virginia Mountaineers",
+        "name": "Mountaineers"
+    },
+    "43": {
+        "shortDisplayName": "Yale",
+        "displayName": "Yale Bulldogs",
+        "name": "Bulldogs"
+    },
+    "2031": {
+        "shortDisplayName": "AR-Little Rock",
+        "displayName": "Arkansas-Little Rock Trojans",
+        "name": "Trojans"
+    },
+    "202": {
+        "shortDisplayName": "Tulsa",
+        "displayName": "Tulsa Golden Hurricane",
+        "name": "Golden Hurricane"
+    },
+    "526": {
+        "shortDisplayName": "FGCU",
+        "displayName": "Florida Gulf Coast Eagles",
+        "name": "Eagles"
+    },
+    "221": {
+        "shortDisplayName": "Pitt",
+        "displayName": "Pittsburgh Panthers",
+        "name": "Panthers"
+    },
+    "2427": {
+        "shortDisplayName": "UNC Asheville",
+        "displayName": "UNC Asheville Bulldogs",
+        "name": "Bulldogs"
+    },
+    "236": {
+        "shortDisplayName": "Chattanooga",
+        "displayName": "Chattanooga Mocs",
+        "name": "Mocs"
+    },
+    "120": {
+        "shortDisplayName": "Maryland",
+        "displayName": "Maryland Terrapins",
+        "name": "Terrapins"
+    },
+    "2046": {
+        "shortDisplayName": "Austin Peay",
+        "displayName": "Austin Peay Governors",
+        "name": "Governors"
+    },
+    "245": {
+        "shortDisplayName": "Texas A&M",
+        "displayName": "Texas A&M Aggies",
+        "name": "Aggies"
+    },
+    "107": {
+        "shortDisplayName": "Holy Cross",
+        "displayName": "Holy Cross Crusaders",
+        "name": "Crusaders"
+    },
+    "222": {
+        "shortDisplayName": "Villanova",
+        "displayName": "Villanova Wildcats",
+        "name": "Wildcats"
+    },
+    "161": {
+        "shortDisplayName": "Fair Dickinson",
+        "displayName": "Fairleigh Dickinson Knights",
+        "name": "Knights"
+    },
+    "251": {
+        "shortDisplayName": "Texas",
+        "displayName": "Texas Longhorns",
+        "name": "Longhorns"
+    },
+    "258": {
+        "shortDisplayName": "UVA",
+        "displayName": "Virginia Cavaliers",
+        "name": "Cavaliers"
+    },
+    "314": {
+        "shortDisplayName": "Iona",
+        "displayName": "Iona Gaels",
+        "name": "Gaels"
+    },
+    "87": {
+        "shortDisplayName": "Notre Dame",
+        "displayName": "Notre Dame Fighting Irish",
+        "name": "Fighting Irish"
+    },
+    "2305": {
+        "shortDisplayName": "Kansas",
+        "displayName": "Kansas Jayhawks",
+        "name": "Jayhawks"
+    },
+    "96": {
+        "shortDisplayName": "Kentucky",
+        "displayName": "Kentucky Wildcats",
+        "name": "Wildcats"
+    },
+    "127": {
+        "shortDisplayName": "Michigan State",
+        "displayName": "Michigan State Spartans",
+        "name": "Spartans"
+    },
+    "204": {
+        "shortDisplayName": "Oregon State",
+        "displayName": "Oregon State Beavers",
+        "name": "Beavers"
+    },
+    "2739": {
+        "shortDisplayName": "Green Bay",
+        "displayName": "Green Bay Phoenix",
+        "name": "Phoenix"
+    },
+    "153": {
+        "shortDisplayName": "UNC",
+        "displayName": "North Carolina Tar Heels",
+        "name": "Tar Heels"
+    },
+    "62": {
+        "shortDisplayName": "Hawaii",
+        "displayName": "Hawaii Rainbow Warriors",
+        "name": "Rainbow Warriors"
+    },
+    "2509": {
+        "shortDisplayName": "Purdue",
+        "displayName": "Purdue Boilermakers",
+        "name": "Boilermakers"
+    }
+}

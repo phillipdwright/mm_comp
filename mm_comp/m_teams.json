@@ -1,0 +1,803 @@
+[
+    {
+        "lid": "1",
+        "wins": "0",
+        "candidates": {
+            "258": "Virginia Cavaliers",
+            "277": "West Virginia Mountaineers"
+        },
+        "id": "1",
+        "seed": "1",
+        "mid": "1",
+        "name": "Virginia"
+    },
+    {
+        "lid": "2",
+        "wins": "0",
+        "candidates": {
+            "204": "Oregon State Beavers",
+            "2483": "Oregon Ducks"
+        },
+        "id": "2",
+        "seed": "1",
+        "mid": "1",
+        "name": "Oregon"
+    },
+    {
+        "lid": "3",
+        "wins": "0",
+        "candidates": {
+            "153": "North Carolina Tar Heels",
+            "2460": "Northern Iowa Panthers"
+        },
+        "id": "3",
+        "seed": "1",
+        "mid": "1",
+        "name": "North Carolina"
+    },
+    {
+        "lid": "4",
+        "wins": "0",
+        "candidates": {
+            "2305": "Kansas Jayhawks"
+        },
+        "id": "4",
+        "seed": "1",
+        "mid": "1",
+        "name": "Kansas"
+    },
+    {
+        "lid": "1",
+        "wins": "0",
+        "candidates": {
+            "66": "Iowa State Cyclones",
+            "127": "Michigan State Spartans",
+            "2692": "Weber State Wildcats",
+            "2571": "South Dakota State Jackrabbits",
+            "2724": "Wichita St Shockers",
+            "204": "Oregon State Beavers",
+            "130": "Michigan Wolverines",
+            "278": "Fresno State Bulldogs"
+        },
+        "id": "5",
+        "seed": "2",
+        "mid": "1",
+        "name": "Michigan State"
+    },
+    {
+        "lid": "2",
+        "wins": "0",
+        "candidates": {
+            "201": "Oklahoma Sooners"
+        },
+        "id": "6",
+        "seed": "2",
+        "mid": "1",
+        "name": "Oklahoma"
+    },
+    {
+        "lid": "3",
+        "wins": "0",
+        "candidates": {
+            "2752": "Xavier Musketeers"
+        },
+        "id": "7",
+        "seed": "2",
+        "mid": "1",
+        "name": "Xavier"
+    },
+    {
+        "lid": "4",
+        "wins": "0",
+        "candidates": {
+            "222": "Villanova Wildcats"
+        },
+        "id": "8",
+        "seed": "2",
+        "mid": "1",
+        "name": "Villanova"
+    },
+    {
+        "lid": "1",
+        "wins": "0",
+        "candidates": {
+            "254": "Utah Utes"
+        },
+        "id": "9",
+        "seed": "3",
+        "mid": "1",
+        "name": "Utah"
+    },
+    {
+        "lid": "2",
+        "wins": "0",
+        "candidates": {
+            "2641": "Texas Tech Red Raiders",
+            "245": "Texas A&M Aggies",
+            "251": "Texas Longhorns"
+        },
+        "id": "10",
+        "seed": "3",
+        "mid": "1",
+        "name": "Texas A&M"
+    },
+    {
+        "lid": "3",
+        "wins": "0",
+        "candidates": {
+            "258": "Virginia Cavaliers",
+            "277": "West Virginia Mountaineers"
+        },
+        "id": "11",
+        "seed": "3",
+        "mid": "1",
+        "name": "West Virginia"
+    },
+    {
+        "lid": "4",
+        "wins": "0",
+        "candidates": {
+            "2390": "Miami Hurricanes"
+        },
+        "id": "12",
+        "seed": "3",
+        "mid": "1",
+        "name": "Miami"
+    },
+    {
+        "lid": "1",
+        "wins": "0",
+        "candidates": {
+            "66": "Iowa State Cyclones",
+            "127": "Michigan State Spartans",
+            "2294": "Iowa Hawkeyes",
+            "2692": "Weber State Wildcats",
+            "2571": "South Dakota State Jackrabbits",
+            "2724": "Wichita St Shockers",
+            "204": "Oregon State Beavers",
+            "2460": "Northern Iowa Panthers",
+            "278": "Fresno State Bulldogs"
+        },
+        "id": "13",
+        "seed": "4",
+        "mid": "1",
+        "name": "Iowa State"
+    },
+    {
+        "lid": "2",
+        "wins": "0",
+        "candidates": {
+            "150": "Duke Blue Devils"
+        },
+        "id": "14",
+        "seed": "4",
+        "mid": "1",
+        "name": "Duke"
+    },
+    {
+        "lid": "3",
+        "wins": "0",
+        "candidates": {
+            "96": "Kentucky Wildcats"
+        },
+        "id": "15",
+        "seed": "4",
+        "mid": "1",
+        "name": "Kentucky"
+    },
+    {
+        "lid": "4",
+        "wins": "0",
+        "candidates": {
+            "25": "California Golden Bears"
+        },
+        "id": "16",
+        "seed": "4",
+        "mid": "1",
+        "name": "California"
+    },
+    {
+        "lid": "1",
+        "wins": "0",
+        "candidates": {
+            "2509": "Purdue Boilermakers"
+        },
+        "id": "17",
+        "seed": "5",
+        "mid": "1",
+        "name": "Purdue"
+    },
+    {
+        "lid": "2",
+        "wins": "0",
+        "candidates": {
+            "239": "Baylor Bears"
+        },
+        "id": "18",
+        "seed": "5",
+        "mid": "1",
+        "name": "Baylor"
+    },
+    {
+        "lid": "3",
+        "wins": "0",
+        "candidates": {
+            "84": "Indiana Hoosiers"
+        },
+        "id": "19",
+        "seed": "5",
+        "mid": "1",
+        "name": "Indiana"
+    },
+    {
+        "lid": "4",
+        "wins": "0",
+        "candidates": {
+            "120": "Maryland Terrapins"
+        },
+        "id": "20",
+        "seed": "5",
+        "mid": "1",
+        "name": "Maryland"
+    },
+    {
+        "lid": "1",
+        "wins": "0",
+        "candidates": {
+            "2550": "Seton Hall Pirates"
+        },
+        "id": "21",
+        "seed": "6",
+        "mid": "1",
+        "name": "Seton Hall"
+    },
+    {
+        "lid": "2",
+        "wins": "0",
+        "candidates": {
+            "2641": "Texas Tech Red Raiders",
+            "245": "Texas A&M Aggies",
+            "251": "Texas Longhorns"
+        },
+        "id": "22",
+        "seed": "6",
+        "mid": "1",
+        "name": "Texas"
+    },
+    {
+        "lid": "3",
+        "wins": "0",
+        "candidates": {
+            "87": "Notre Dame Fighting Irish"
+        },
+        "id": "23",
+        "seed": "6",
+        "mid": "1",
+        "name": "Notre Dame"
+    },
+    {
+        "lid": "4",
+        "wins": "0",
+        "candidates": {
+            "12": "Arizona Wildcats"
+        },
+        "id": "24",
+        "seed": "6",
+        "mid": "1",
+        "name": "Arizona"
+    },
+    {
+        "lid": "1",
+        "wins": "0",
+        "candidates": {
+            "2168": "Dayton Flyers"
+        },
+        "id": "25",
+        "seed": "7",
+        "mid": "1",
+        "name": "Dayton"
+    },
+    {
+        "lid": "2",
+        "wins": "0",
+        "candidates": {
+            "66": "Iowa State Cyclones",
+            "2483": "Oregon Ducks",
+            "127": "Michigan State Spartans",
+            "2692": "Weber State Wildcats",
+            "2571": "South Dakota State Jackrabbits",
+            "2724": "Wichita St Shockers",
+            "204": "Oregon State Beavers",
+            "278": "Fresno State Bulldogs"
+        },
+        "id": "26",
+        "seed": "7",
+        "mid": "1",
+        "name": "Oregon State"
+    },
+    {
+        "lid": "3",
+        "wins": "0",
+        "candidates": {
+            "275": "Wisconsin Badgers"
+        },
+        "id": "27",
+        "seed": "7",
+        "mid": "1",
+        "name": "Wisconsin"
+    },
+    {
+        "lid": "4",
+        "wins": "0",
+        "candidates": {
+            "66": "Iowa State Cyclones",
+            "2460": "Northern Iowa Panthers",
+            "2294": "Iowa Hawkeyes"
+        },
+        "id": "28",
+        "seed": "7",
+        "mid": "1",
+        "name": "Iowa"
+    },
+    {
+        "lid": "1",
+        "wins": "0",
+        "candidates": {
+            "2641": "Texas Tech Red Raiders",
+            "245": "Texas A&M Aggies",
+            "251": "Texas Longhorns"
+        },
+        "id": "29",
+        "seed": "8",
+        "mid": "1",
+        "name": "Texas Tech"
+    },
+    {
+        "lid": "2",
+        "wins": "0",
+        "candidates": {
+            "2603": "Saint Joseph&#39;s Hawks"
+        },
+        "id": "30",
+        "seed": "8",
+        "mid": "1",
+        "name": "Saint Joseph's"
+    },
+    {
+        "lid": "3",
+        "wins": "0",
+        "candidates": {
+            "30": "USC Trojans"
+        },
+        "id": "31",
+        "seed": "8",
+        "mid": "1",
+        "name": "USC"
+    },
+    {
+        "lid": "4",
+        "wins": "0",
+        "candidates": {
+            "38": "Colorado Buffaloes"
+        },
+        "id": "32",
+        "seed": "8",
+        "mid": "1",
+        "name": "Colorado"
+    },
+    {
+        "lid": "1",
+        "wins": "0",
+        "candidates": {
+            "2086": "Butler Bulldogs"
+        },
+        "id": "33",
+        "seed": "9",
+        "mid": "1",
+        "name": "Butler"
+    },
+    {
+        "lid": "2",
+        "wins": "0",
+        "candidates": {
+            "2132": "Cincinnati Bearcats"
+        },
+        "id": "34",
+        "seed": "9",
+        "mid": "1",
+        "name": "Cincinnati"
+    },
+    {
+        "lid": "3",
+        "wins": "0",
+        "candidates": {
+            "2507": "Providence Friars"
+        },
+        "id": "35",
+        "seed": "9",
+        "mid": "1",
+        "name": "Providence"
+    },
+    {
+        "lid": "4",
+        "wins": "0",
+        "candidates": {
+            "41": "Connecticut Huskies"
+        },
+        "id": "36",
+        "seed": "9",
+        "mid": "1",
+        "name": "Connecticut"
+    },
+    {
+        "lid": "1",
+        "wins": "0",
+        "candidates": {
+            "183": "Syracuse Orange"
+        },
+        "id": "37",
+        "seed": "10",
+        "mid": "1",
+        "name": "Syracuse"
+    },
+    {
+        "lid": "2",
+        "wins": "0",
+        "candidates": {
+            "2670": "VCU Rams"
+        },
+        "id": "38",
+        "seed": "10",
+        "mid": "1",
+        "name": "VCU"
+    },
+    {
+        "lid": "3",
+        "wins": "0",
+        "candidates": {
+            "221": "Pittsburgh Panthers"
+        },
+        "id": "39",
+        "seed": "10",
+        "mid": "1",
+        "name": "Pittsburgh"
+    },
+    {
+        "lid": "4",
+        "wins": "0",
+        "candidates": {
+            "218": "Temple Owls"
+        },
+        "id": "40",
+        "seed": "10",
+        "mid": "1",
+        "name": "Temple"
+    },
+    {
+        "lid": "1",
+        "wins": "0",
+        "candidates": {
+            "2250": "Gonzaga Bulldogs"
+        },
+        "id": "41",
+        "seed": "11",
+        "mid": "1",
+        "name": "Gonzaga"
+    },
+    {
+        "lid": "2",
+        "wins": "0",
+        "candidates": {
+            "66": "Iowa State Cyclones",
+            "2460": "Northern Iowa Panthers",
+            "2294": "Iowa Hawkeyes"
+        },
+        "id": "42",
+        "seed": "11",
+        "mid": "1",
+        "name": "Northern Iowa"
+    },
+    {
+        "lid": "3",
+        "wins": "0",
+        "candidates": {
+            "130": "Michigan Wolverines",
+            "202": "Tulsa Golden Hurricane",
+            "127": "Michigan State Spartans"
+        },
+        "id": "43",
+        "seed": "11",
+        "mid": "1",
+        "name": "Michigan/Tulsa"
+    },
+    {
+        "lid": "4",
+        "wins": "0",
+        "candidates": {
+            "66": "Iowa State Cyclones",
+            "238": "Vanderbilt Commodores",
+            "127": "Michigan State Spartans",
+            "2692": "Weber State Wildcats",
+            "2571": "South Dakota State Jackrabbits",
+            "2724": "Wichita St Shockers",
+            "204": "Oregon State Beavers",
+            "278": "Fresno State Bulldogs"
+        },
+        "id": "44",
+        "seed": "11",
+        "mid": "1",
+        "name": "Vanderbilt/Wichita State"
+    },
+    {
+        "lid": "1",
+        "wins": "0",
+        "candidates": {
+            "2031": "Arkansas-Little Rock Trojans"
+        },
+        "id": "45",
+        "seed": "12",
+        "mid": "1",
+        "name": "Little Rock"
+    },
+    {
+        "lid": "2",
+        "wins": "0",
+        "candidates": {
+            "43": "Yale Bulldogs"
+        },
+        "id": "46",
+        "seed": "12",
+        "mid": "1",
+        "name": "Yale"
+    },
+    {
+        "lid": "3",
+        "wins": "0",
+        "candidates": {
+            "236": "Chattanooga Mocs"
+        },
+        "id": "47",
+        "seed": "12",
+        "mid": "1",
+        "name": "Chattanooga"
+    },
+    {
+        "lid": "4",
+        "wins": "0",
+        "candidates": {
+            "66": "Iowa State Cyclones",
+            "127": "Michigan State Spartans",
+            "2692": "Weber State Wildcats",
+            "2571": "South Dakota State Jackrabbits",
+            "2582": "Southern Jaguars",
+            "204": "Oregon State Beavers",
+            "2724": "Wichita St Shockers",
+            "278": "Fresno State Bulldogs"
+        },
+        "id": "48",
+        "seed": "12",
+        "mid": "1",
+        "name": "South Dakota State"
+    },
+    {
+        "lid": "1",
+        "wins": "0",
+        "candidates": {
+            "314": "Iona Gaels"
+        },
+        "id": "49",
+        "seed": "13",
+        "mid": "1",
+        "name": "Iona"
+    },
+    {
+        "lid": "2",
+        "wins": "0",
+        "candidates": {
+            "153": "North Carolina Tar Heels",
+            "350": "UNC Wilmington Seahawks",
+            "2427": "UNC Asheville Bulldogs"
+        },
+        "id": "50",
+        "seed": "13",
+        "mid": "1",
+        "name": "UNC Wilmington"
+    },
+    {
+        "lid": "3",
+        "wins": "0",
+        "candidates": {
+            "2619": "Stony Brook Seawolves"
+        },
+        "id": "51",
+        "seed": "13",
+        "mid": "1",
+        "name": "Stony Brook"
+    },
+    {
+        "lid": "4",
+        "wins": "0",
+        "candidates": {
+            "62": "Hawaii Rainbow Warriors"
+        },
+        "id": "52",
+        "seed": "13",
+        "mid": "1",
+        "name": "Hawaii"
+    },
+    {
+        "lid": "1",
+        "wins": "0",
+        "candidates": {
+            "66": "Iowa State Cyclones",
+            "127": "Michigan State Spartans",
+            "2692": "Weber State Wildcats",
+            "2571": "South Dakota State Jackrabbits",
+            "2724": "Wichita St Shockers",
+            "204": "Oregon State Beavers",
+            "278": "Fresno State Bulldogs"
+        },
+        "id": "53",
+        "seed": "14",
+        "mid": "1",
+        "name": "Fresno State"
+    },
+    {
+        "lid": "2",
+        "wins": "0",
+        "candidates": {
+            "239": "Baylor Bears",
+            "2739": "Green Bay Phoenix"
+        },
+        "id": "54",
+        "seed": "14",
+        "mid": "1",
+        "name": "Green Bay"
+    },
+    {
+        "lid": "3",
+        "wins": "0",
+        "candidates": {
+            "2507": "Providence Friars",
+            "2617": "Stephen F. Austin Lumberjacks",
+            "2168": "Dayton Flyers",
+            "2934": "CSU Bakersfield Roadrunners",
+            "87": "Notre Dame Fighting Irish",
+            "2046": "Austin Peay Governors",
+            "161": "Fairleigh Dickinson Knights",
+            "526": "Florida Gulf Coast Eagles",
+            "278": "Fresno State Bulldogs"
+        },
+        "id": "55",
+        "seed": "14",
+        "mid": "1",
+        "name": "Stephen F. Austin SU"
+    },
+    {
+        "lid": "4",
+        "wins": "0",
+        "candidates": {
+            "2084": "Buffalo Bulls",
+            "38": "Colorado Buffaloes"
+        },
+        "id": "56",
+        "seed": "14",
+        "mid": "1",
+        "name": "Buffalo"
+    },
+    {
+        "lid": "1",
+        "wins": "0",
+        "candidates": {
+            "66": "Iowa State Cyclones",
+            "127": "Michigan State Spartans",
+            "2692": "Weber State Wildcats",
+            "2571": "South Dakota State Jackrabbits",
+            "2724": "Wichita St Shockers",
+            "204": "Oregon State Beavers",
+            "2393": "Middle Tennessee Blue Raiders",
+            "278": "Fresno State Bulldogs"
+        },
+        "id": "57",
+        "seed": "15",
+        "mid": "1",
+        "name": "Middle Tennessee State"
+    },
+    {
+        "lid": "2",
+        "wins": "0",
+        "candidates": {
+            "2934": "CSU Bakersfield Roadrunners"
+        },
+        "id": "58",
+        "seed": "15",
+        "mid": "1",
+        "name": "CSU Bakersfield"
+    },
+    {
+        "lid": "3",
+        "wins": "0",
+        "candidates": {
+            "66": "Iowa State Cyclones",
+            "127": "Michigan State Spartans",
+            "2692": "Weber State Wildcats",
+            "2571": "South Dakota State Jackrabbits",
+            "2724": "Wichita St Shockers",
+            "204": "Oregon State Beavers",
+            "278": "Fresno State Bulldogs"
+        },
+        "id": "59",
+        "seed": "15",
+        "mid": "1",
+        "name": "Weber State"
+    },
+    {
+        "lid": "4",
+        "wins": "0",
+        "candidates": {
+            "153": "North Carolina Tar Heels",
+            "350": "UNC Wilmington Seahawks",
+            "2427": "UNC Asheville Bulldogs"
+        },
+        "id": "60",
+        "seed": "15",
+        "mid": "1",
+        "name": "UNC Asheville"
+    },
+    {
+        "lid": "1",
+        "wins": "0",
+        "candidates": {
+            "2261": "Hampton Pirates"
+        },
+        "id": "61",
+        "seed": "16",
+        "mid": "1",
+        "name": "Hampton"
+    },
+    {
+        "lid": "2",
+        "wins": "0",
+        "candidates": {
+            "2934": "CSU Bakersfield Roadrunners",
+            "41": "Connecticut Huskies",
+            "107": "Holy Cross Crusaders",
+            "350": "UNC Wilmington Seahawks",
+            "254": "Utah Utes",
+            "2582": "Southern Jaguars",
+            "30": "USC Trojans",
+            "2670": "VCU Rams",
+            "153": "North Carolina Tar Heels",
+            "258": "Virginia Cavaliers",
+            "526": "Florida Gulf Coast Eagles",
+            "2427": "UNC Asheville Bulldogs"
+        },
+        "id": "62",
+        "seed": "16",
+        "mid": "1",
+        "name": "Holy Cross/Southern U"
+    },
+    {
+        "lid": "3",
+        "wins": "0",
+        "candidates": {
+            "526": "Florida Gulf Coast Eagles"
+        },
+        "id": "63",
+        "seed": "16",
+        "mid": "1",
+        "name": "FGCU/FDU"
+    },
+    {
+        "lid": "4",
+        "wins": "0",
+        "candidates": {
+            "2617": "Stephen F. Austin Lumberjacks",
+            "2046": "Austin Peay Governors"
+        },
+        "id": "64",
+        "seed": "16",
+        "mid": "1",
+        "name": "Austin Peay"
+    }
+]
