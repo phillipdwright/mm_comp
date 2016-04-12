@@ -3,6 +3,7 @@
 
 # Dropbox files
 *.dropbox
+desktop.ini
 
 # Setuptools distribution folder.
 /dist/
