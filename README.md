@@ -2,7 +2,7 @@
 A collection of scripts for database setup and back-end maintenance for Roanoke College's March Madness competition, using score data scraped from ESPN's scoreboard website
 
 ## Installation
-This will install the **mm_comp** project to your default install location for third-party modules.
+This will install the **mm_comp** project to your default install location for third-party Python modules.
 
 To install, run:
 ```
