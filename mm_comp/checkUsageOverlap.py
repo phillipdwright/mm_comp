@@ -1,12 +1,11 @@
 #!/usr/bin/python
 
-import MySQLdb
+import pymysql.cursors
+# Import the parameters for the database connection
+from mm_comp.db_connector import connection_params
 
 # connect to the database
-db = MySQLdb.connect(host="",
-                     user="",
-                     passwd="",
-                     db="")
+db = pymysql.connect(**connection_params)
 
 # create a Cursor object -- it will let us execute queries
 cur = db.cursor()
