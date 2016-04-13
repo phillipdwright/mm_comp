@@ -27,10 +27,12 @@ as a parameter and sends an email containing this email string as the body.
 ## Usage
 Once the back-end database is created and ESPN has published information for the tournament, 
 change ``dates.py`` to show the tournament dates for each round.
-* ``getteamids.py`` will obtain data on all teams in the tournament from espn.com.  This is a setup task
+* ``getteamids.py`` will obtain data on all teams in the tournament from espn.com.  This is a setup script
 and will only need to be run once.
-* ``addespnids.py`` writes the teams ids from espn.com to the competition website.  This is a setup task
+* ``addespnids.py`` writes the teams ids from espn.com to the competition website.  This is a setup script
 and will only need to be run once.
+* ``checkUsageOverlap.py`` reports on the overlap between entries in the competition.  This script can be run 
+once users have submitted entries into the competition.
 * ``update_wins.py`` checks ESPN's scoreboard and updates the database with current score information,
 if any games have completed since the last update.  This should be scheduled to run periodically (eg., every 30
 minutes) throughout the tournament to update the competition website regularly.
